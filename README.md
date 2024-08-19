@@ -135,4 +135,3 @@ python -m spacy download en_core_web_lg
 This project demonstrates the process of using an LSTM model to predict the next word in a sequence based on the previous words. It covers text preprocessing, sequence generation, model development, and training.
 ```
 
-Feel free to modify the `README.md` content to suit your specific needs or add more details as necessary.
